@@ -2,7 +2,7 @@
 
 ## Algorithmic Trading System: Performance Dashboard
 
-[![Live Dashboard](https://img.shields.io/badge/Live-Dashboard-blue?style=for-the-badge&logo=plotly)](YOUR_GITHUB_PAGES_LINK)
+[![Live Dashboard](https://img.shields.io/badge/Live-Dashboard-blue?style=for-the-badge&logo=plotly)](https://avelez93.github.io/ml-trading-analytics/trading_dashboard/)
 [![Python](https://img.shields.io/badge/Python-3.12+-green?style=for-the-badge&logo=python)](https://www.python.org/)
 
 ### 📌 Project Overview
@@ -26,7 +26,7 @@ The system's performance is audited through an interactive dashboard that tracks
 * **Win Ratio & Profit Factor:** Core quantitative metrics to assess strategy robustness.
 * **Execution Logs:** Detailed transparency on buy/sell signals, duration, and net gains per asset.
 
-#### [👉 View Live Interactive Dashboard](dashboards/trading_dashboard.html)
+#### [👉 View Live Interactive Dashboard](https://avelez93.github.io/ml-trading-analytics/trading_dashboard/)
 
 ### 🛠️ Stack & Tools
 * **Language:** Python
