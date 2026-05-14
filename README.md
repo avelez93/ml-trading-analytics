@@ -13,7 +13,7 @@ The core engine is a production-ready pipeline that handles the full lifecycle o
 > **Note:** The core source code (Data Ingestion, Signal Generation, and Execution Logic) is hosted in a **private repository** to protect proprietary strategies and API security. This public page focuses on the **MLOps lifecycle** and **analytical results**.
 
 ### 🚀 Key Technical Features
-* **Production Environment:** Deployed on **Oracle Cloud** using a 24GB RAM instance for 24/7 autonomous operation.
+* **Production Environment:** Deployed on **Oracle Cloud** instance for 24/7 autonomous operation.
 * **Data Pipeline:** Automated ETL processes including outlier detection, survivorship bias mitigation, and high-frequency data cleaning.
 * **MLOps Integration:** Experiment tracking and model versioning managed with **MLFlow**.
 * **Infrastructure:** Fully containerized environment using **Docker**, with a roadmap for **Kubernetes** orchestration.
@@ -26,14 +26,14 @@ The system's performance is audited through an interactive dashboard that tracks
 * **Win Ratio & Profit Factor:** Core quantitative metrics to assess strategy robustness.
 * **Execution Logs:** Detailed transparency on buy/sell signals, duration, and net gains per asset.
 
-#### [👉 View Live Interactive Dashboard]()
+#### [👉 View Live Interactive Dashboard](dashboards/trading_dashboard.html)
 
 ### 🛠️ Stack & Tools
 * **Language:** Python
 * **Financial APIs:** Alpaca Markets API
-* **Data Science:** Pandas, NumPy, Scikit-Learn
+* **Data Science:** Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch, Keras, Seaborn
 * **Visualization:** Plotly (Interactive HTML Dashboards)
 * **Cloud & DevOps:** Oracle Cloud (OCI), Docker, GitLab CI/CD, MLFlow
 
 ---
-*For a detailed technical walkthrough or to discuss the underlying architecture, feel free to contact me via [LinkedIn](YOUR_LINKEDIN_URL).*
+*For a detailed technical walkthrough or to discuss the underlying architecture, feel free to contact me via [LinkedIn](https://www.linkedin.com/in/adrian-velez-remon-4a0b5b174/).*
